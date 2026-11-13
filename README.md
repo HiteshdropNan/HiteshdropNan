@@ -68,18 +68,14 @@ My primary open-source quantitative research is compiled in my **[Quantitative F
 
 <div align="center">
 
-<!-- Dark Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshdropNan/HiteshdropNan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiteshdropNan/HiteshdropNan/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HiteshdropNan/HiteshdropNan/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<!-- Dynamic Trading-Style Contribution Graph (100% Free, No Actions Needed) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshdropNan&theme=tokyo-night&bg_color=0b0f19&color=38bdf8&line=22c55e&point=38bdf8&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
 
 <!-- Sleek Dark Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=HiteshdropNan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=22c55e&text_color=94a3b8" width="48.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshdropNan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" width="48.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HiteshdropNan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=22c55e&text_color=94a3b8" width="48.5%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshdropNan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" width="48.5%" alt="Top Languages" />
 
 </div>
 
