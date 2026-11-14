@@ -84,8 +84,8 @@ All 10 quantitative research projects are maintained in my **[Quantitative Finan
 <br/><br/>
 
 <!-- Sleek Dark Stats Cards -->
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=HiteshdropNan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=22c55e&text_color=94a3b8" width="48.5%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=HiteshdropNan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" width="48.5%" alt="Top Languages" />
+<img src="./assets/github-stats.svg" width="48.5%" alt="GitHub Stats" />
+<img src="./assets/streak-stats.svg" width="48.5%" alt="GitHub Streak" />
 
 </div>
 
