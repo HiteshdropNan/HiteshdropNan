@@ -36,7 +36,7 @@ I am a **Quantitative Research Consultant** and **Financial Engineer** developin
 - 💳 **Credit Risk & Structured Products:** Implemented exact piecewise hazard rate $\lambda(t)$ bootstrapping from market CDS spreads (Peña model), CDS mark-to-market valuation, and Gaussian copula joint default simulation across credit baskets.
 - 🧬 **Systematic Trading & Genetic Algorithms:** Engineered end-to-end cointegrated pairs trading and multivariate VECM models with genetic algorithm parameter optimization (`deap`) and broker execution via Alpaca & Interactive Brokers APIs.
 - ⚖️ **Institutional Portfolio Allocation:** Formulated Black-Litterman Bayesian updating with Idzorek confidence scaling, Optimal Kelly Criterion sizing, Marchenko-Pastur Random Matrix Theory (RMT) covariance denoising, detoning, and Hierarchical Risk Parity (HRP).
-- ⚡ **Engineering & Performance:** Production systems built in **Python (NumPy, SciPy, PyTorch, statsmodels, arch)** and **Modern C++20** (low-latency multithreading, `std::atomic`, cache-friendly memory layouts).
+- ⚡ **Engineering & Performance:** Production quantitative execution engines built in **Python (NumPy, SciPy, PyTorch)** and **Modern C++20**, bound via **nanobind** (zero-allocation Limit Order Book matching, sub-microsecond pre-trade risk gates, AVX2 SIMD, and parallel Monte Carlo bootstrap via std::jthread).
 
 ---
 
@@ -67,7 +67,7 @@ All 10 quantitative research projects are maintained in my **[Quantitative Finan
 <img src="https://skillicons.dev/icons?i=python,cpp,postgres,pytorch,git,linux&perline=6" alt="Tech Stack"/>
 
 <p>
-  <code>Python 3.12</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>DEAP</code> &bull; <code>arch</code> &bull; <code>PostgreSQL</code>
+  <code>Python 3.12</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>nanobind</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>DEAP</code> &bull; <code>arch</code> &bull; <code>PostgreSQL</code>
 </p>
 
 </div>
