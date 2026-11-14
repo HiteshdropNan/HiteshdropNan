@@ -21,31 +21,41 @@
 
 </div>
 
+> [!TIP]
+> 🚀 **Flagship Quantitative Portfolio:** [**github.com/HiteshdropNan/Resume**](https://github.com/HiteshdropNan/Resume)  
+> *Explore 10 comprehensive research pillars featuring dual-format architecture: standalone Python CLI execution engines (`.py`) and fully rendered interactive Jupyter research notebooks (`.ipynb`).*
+
 ---
 
 ### 🏛️ Executive Quantitative Summary
 
 I am a **Quantitative Research Consultant** and **Financial Engineer** developing systematic alpha strategies, stochastic asset pricing models, and high-performance execution systems:
 
-- 📈 **WorldQuant Brain:** Researched, backtested, and deployed **400+ statistical arbitrage alphas** across equity markets leveraging fundamental, price-volume, momentum, and sentiment data.
-- 📐 **Stochastic Calculus & Deep PDEs:** Formulated Heston (1993) continuous-time volatility smiles, Fourier inversion pricing, and solved high-dimensional Black-Scholes PDEs via Forward-Backward SDEs (Deep BSDE method).
-- 🧬 **Systematic Trading & Genetic Algorithms:** Engineered end-to-end cointegrated pairs trading and VECM models with genetic algorithm parameter optimization (`deap`) and broker execution via Alpaca & Interactive Brokers APIs.
-- ⚡ **Engineering & Performance:** Production systems built in **Python (NumPy, SciPy, PyTorch, statsmodels)** and **Modern C++20** (low-latency multithreading, `std::atomic`, lock-free design, memory-efficient architectures).
+- 📈 **WorldQuant Brain:** Researched, backtested, and deployed **400+ statistical arbitrage alphas** across global equity universes leveraging fundamental, price-volume, momentum, and sentiment data signals.
+- 📐 **Stochastic Calculus & Deep PDEs:** Formulated Heston (1993) continuous-time volatility smiles, Fourier inversion pricing, and solved high-dimensional non-linear Black-Scholes PDEs via Forward-Backward SDEs (Deep BSDE method) in PyTorch.
+- 💳 **Credit Risk & Structured Products:** Implemented exact piecewise hazard rate $\lambda(t)$ bootstrapping from market CDS spreads (Peña model), CDS mark-to-market valuation, and Gaussian copula joint default simulation across credit baskets.
+- 🧬 **Systematic Trading & Genetic Algorithms:** Engineered end-to-end cointegrated pairs trading and multivariate VECM models with genetic algorithm parameter optimization (`deap`) and broker execution via Alpaca & Interactive Brokers APIs.
+- ⚖️ **Institutional Portfolio Allocation:** Formulated Black-Litterman Bayesian updating with Idzorek confidence scaling, Optimal Kelly Criterion sizing, Marchenko-Pastur Random Matrix Theory (RMT) covariance denoising, detoning, and Hierarchical Risk Parity (HRP).
+- ⚡ **Engineering & Performance:** Production systems built in **Python (NumPy, SciPy, PyTorch, statsmodels, arch)** and **Modern C++20** (low-latency multithreading, `std::atomic`, cache-friendly memory layouts).
 
 ---
 
 ### 🔬 Flagship Research Pillars & Models
 
-My primary open-source quantitative research is compiled in my **[Quantitative Finance & Financial Engineering Portfolio](https://github.com/HiteshdropNan/Resume)**:
+All 10 quantitative research projects are maintained in my **[Quantitative Finance & Financial Engineering Portfolio](https://github.com/HiteshdropNan/Resume)**:
 
-| Pillar | Domain | Core Quantitative Models & Derivations |
-| :--- | :--- | :--- |
-| **01. Statistical Arbitrage** | Systematic Trading | Johansen Cointegration, VECM $\boldsymbol{\Pi} = \boldsymbol{\alpha}\boldsymbol{\beta}^\top$, Genetic Algorithms (`deap`), Mean Reversion |
-| **02. Derivatives & Volatility** | Stochastic Calculus | Heston (1993) SDEs, Characteristic Function Inversion, Volatility Smile Skewness, Dynamic Delta Hedging |
-| **03. High-Dim Deep PDEs** | Deep Learning / FBSDE | Forward-Backward SDEs (FBSNN / Han & E), High-Dimensional Black-Scholes PDE Solvers in PyTorch |
-| **04. Portfolio Optimization** | Asset Allocation | Optimal Kelly Criterion, Random Matrix Theory (Marchenko-Pastur Denoising), Hierarchical Risk Parity (HRP) |
-| **05. Bayesian Allocation** | Econometrics | Black-Litterman Reverse Optimization Equilibrium $\boldsymbol{\Pi} = \lambda \boldsymbol{\Sigma}\mathbf{w}_{\text{mkt}}$ & Idzorek Tilts |
-| **06. Risk & Microstructure** | Market Risk / Quant | DCC-GARCH, Markov Regime-Switching Models, Value-at-Risk (VaR / CVaR), Credit Default Swap (CDS) Bootstrapping |
+| Pillar | Domain | Core Quantitative Models & Frameworks | Artifacts on GitHub |
+| :--- | :--- | :--- | :---: |
+| **[01. Algorithmic Trading & GA](https://github.com/HiteshdropNan/Resume/tree/main/01_algorithmic_trading_cqf)** | Systematic StatArb | Cointegration Pairs (JPM/XLF), Normalized Z-Score Spread, Evolutionary DEAP Optimization, Alpaca Execution | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/01_algorithmic_trading_cqf) |
+| **[02. Stochastic Volatility](https://github.com/HiteshdropNan/Resume/tree/main/02_stochastic_volatility_derivatives)** | Derivatives & SDEs | Heston (1993) SDEs, Characteristic Function Fourier Inversion, Volatility Smile Skew, Dynamic Delta Hedging | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/02_stochastic_volatility_derivatives) |
+| **[03. Deep Learning Allocation](https://github.com/HiteshdropNan/Resume/tree/main/03_deep_learning_asset_allocation)** | Quant ML & Time Series | Multi-Asset PyTorch LSTM Return Forecasting & Dynamic Tactical Asset Allocation vs. Equal-Weight Baseline | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/03_deep_learning_asset_allocation) |
+| **[04. Factor Investing & ML](https://github.com/HiteshdropNan/Resume/tree/main/04_machine_learning_factor_models)** | Statistical Learning | LASSO ($L_1$) Sparse Selection, PCA Eigenportfolios (Market vs Sector), k-Means Correlation Distance Clustering | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/04_machine_learning_factor_models) |
+| **[05. Kelly Sizing & RMT](https://github.com/HiteshdropNan/Resume/tree/main/05_portfolio_optimization_and_kelly)** | Institutional Allocation | Optimal Kelly Sizing (Full & Half), Marchenko-Pastur RMT Covariance Denoising, Detoning, HRP (López de Prado) | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/05_portfolio_optimization_and_kelly) |
+| **[06. Risk & Regime Shifts](https://github.com/HiteshdropNan/Resume/tree/main/06_risk_management_regimes)** | Econometrics & Risk | Oil DCC-GARCH Volatility, Natural Gas UNG Markov Regime Switching (Hamilton 1989), Extreme Tail VaR/CVaR | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/06_risk_management_regimes) |
+| **[07. Deep FBSDE PDE Solver](https://github.com/HiteshdropNan/Resume/tree/main/07_deep_pde_fbsde_derivative_pricing)** | Neural SDEs & Deep PDEs | High-Dimensional Non-Linear Black-Scholes PDE Solver via Forward-Backward SDEs (FBSNN, Weinan E et al.) | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/07_deep_pde_fbsde_derivative_pricing) |
+| **[08. CDS Hazard Bootstrapping](https://github.com/HiteshdropNan/Resume/tree/main/08_credit_risk_cds_bootstrapping)** | Credit Risk & Copulas | Exact Piecewise Hazard Rate $\lambda(t)$ Bootstrapping (Peña model), CDS Mark-to-Market, Gaussian Copula Defaults | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/08_credit_risk_cds_bootstrapping) |
+| **[09. Multivariate VECM](https://github.com/HiteshdropNan/Resume/tree/main/09_vecm_cointegration_trading)** | Econometrics & StatArb | Johansen Maximum Likelihood Cointegration Rank Test (Trace & Max-Eigenvalue), VECM Arbitrage Backtest | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/09_vecm_cointegration_trading) |
+| **[10. Black-Litterman Allocation](https://github.com/HiteshdropNan/Resume/tree/main/10_black_litterman_portfolio)** | Bayesian Asset Allocation | Reverse Optimization $\boldsymbol{\Pi} = \lambda \boldsymbol{\Sigma}\mathbf{w}_{\text{mkt}}$, Idzorek View Confidence Scaling, Portfolio Tilts | [Engine & Notebook](https://github.com/HiteshdropNan/Resume/tree/main/10_black_litterman_portfolio) |
 
 ---
 
@@ -57,7 +67,7 @@ My primary open-source quantitative research is compiled in my **[Quantitative F
 <img src="https://skillicons.dev/icons?i=python,cpp,postgres,pytorch,git,linux,docker&perline=7" alt="Tech Stack"/>
 
 <p>
-  <code>Python</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>PostgreSQL</code> &bull; <code>Redis</code> &bull; <code>Docker</code>
+  <code>Python 3.12</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>DEAP</code> &bull; <code>arch</code> &bull; <code>PostgreSQL</code> &bull; <code>Docker</code>
 </p>
 
 </div>
@@ -68,7 +78,7 @@ My primary open-source quantitative research is compiled in my **[Quantitative F
 
 <div align="center">
 
-<!-- Dynamic Trading-Style Contribution Graph (100% Free, No Actions Needed) -->
+<!-- Dynamic Trading-Style Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshdropNan&theme=tokyo-night&bg_color=0b0f19&color=38bdf8&line=22c55e&point=38bdf8&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
