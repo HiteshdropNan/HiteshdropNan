@@ -64,10 +64,10 @@ All 10 quantitative research projects are maintained in my **[Quantitative Finan
 <div align="center">
 
 #### Languages & Core Libraries
-<img src="https://skillicons.dev/icons?i=python,cpp,postgres,pytorch,git,linux,docker&perline=7" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,postgres,pytorch,git,linux&perline=6" alt="Tech Stack"/>
 
 <p>
-  <code>Python 3.12</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>DEAP</code> &bull; <code>arch</code> &bull; <code>PostgreSQL</code> &bull; <code>Docker</code>
+  <code>Python 3.12</code> &bull; <code>Modern C++ (C++20)</code> &bull; <code>PyTorch</code> &bull; <code>NumPy / SciPy</code> &bull; <code>pandas / statsmodels</code> &bull; <code>scikit-learn</code> &bull; <code>DEAP</code> &bull; <code>arch</code> &bull; <code>PostgreSQL</code>
 </p>
 
 </div>
