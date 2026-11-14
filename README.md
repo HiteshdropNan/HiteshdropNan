@@ -5,7 +5,7 @@
 
 <!-- Live Animated Typing Tagline -->
 <a href="https://github.com/HiteshdropNan/Resume">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=400%2B+Statistical+Arbitrage+Alphas+Deployed+at+WorldQuant+Brain;MSc+Financial+Engineering+(WQU)+%7C+CQF+Graduate+(Fitch+Learning);Stochastic+Calculus+%7C+Deep+Learning+PDE+Solvers+%7C+RMT+Portfolio+Optimization;Low-Latency+C%2B%2B20+%26+Production-Grade+Python+Trading+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=400%2B+Statistical+Arbitrage+Alphas+Deployed+at+WorldQuant+Brain;MSc+Financial+Engineering+(WQU)+%7C+CQF+Graduate+(Fitch+Learning);Stochastic+Calculus+%7C+Deep+Neural+PDEs+%7C+RMT+Portfolio+Sizing;Low-Latency+C%2B%2B20+%26+Production-Grade+Python+Trading+Engines" alt="Typing SVG" />
 </a>
 
 <br/>
